@@ -13,3 +13,7 @@
 ### [4. Adapter Pattern](./src/adapter)
 
 ### [5. Bridge Pattern](./src/bridge)
+
+### [6. Decorator Pattern](./src/decorator)
+
+### [7. Singleton Pattern](./src/singleton)

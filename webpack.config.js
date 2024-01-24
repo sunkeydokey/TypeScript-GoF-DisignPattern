@@ -1,7 +1,7 @@
 const path = require('path');
 module.exports = {
   mode: 'development',
-  entry: './src/adapter/index.ts',
+  entry: './src/singleton/index.ts',
   devtool: 'inline-source-map',
   module: {
     rules: [
