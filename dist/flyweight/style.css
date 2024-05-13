@@ -1,0 +1,19 @@
+#tmp {
+  display: flex;
+}
+
+.digit-layout {
+  display: grid;
+  background-color: #000;
+  width: 80px;
+  height: 80px;
+
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+  gap: 1px;
+  padding: 2px;
+}
+
+.digit-layout div {
+  border-radius: 50%;
+}

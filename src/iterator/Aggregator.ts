@@ -1,4 +1,4 @@
-import Iterator from './iterator';
+import Iterator from './Iterator';
 
 interface Aggregator<T> {
   iterator(): Iterator<T>;

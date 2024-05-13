@@ -1,7 +1,7 @@
 import Aggregator from './Aggregator';
 import ArrayIterator from './ArrayIterator';
 import Item from './Item';
-import Iterator from './iterator';
+import Iterator from './Iterator';
 
 class Array implements Aggregator<Item> {
   constructor(private items: Item[]) {}
